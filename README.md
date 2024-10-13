@@ -128,6 +128,7 @@ To check how to use the library, see [USAGE.md](https://github.com/react-native-
 ## Known issues:
 
 1. Unable to apply focus point of RadialGradient on Android.
+2. getBBox measurements are wrong on iOS and Android, in different ways. Until #2031 is merged.
 
 ## React Native SVG is maintained by Software Mansion
 
